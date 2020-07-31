@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FullThrottle_Labs/static/css/main.854dee9f.chunk.css",
+    "main.js": "/FullThrottle_Labs/static/js/main.1858fb15.chunk.js",
+    "main.js.map": "/FullThrottle_Labs/static/js/main.1858fb15.chunk.js.map",
+    "runtime-main.js": "/FullThrottle_Labs/static/js/runtime-main.c6aff96e.js",
+    "runtime-main.js.map": "/FullThrottle_Labs/static/js/runtime-main.c6aff96e.js.map",
+    "static/css/2.12f1a8df.chunk.css": "/FullThrottle_Labs/static/css/2.12f1a8df.chunk.css",
+    "static/js/2.275e2aa7.chunk.js": "/FullThrottle_Labs/static/js/2.275e2aa7.chunk.js",
+    "static/js/2.275e2aa7.chunk.js.map": "/FullThrottle_Labs/static/js/2.275e2aa7.chunk.js.map",
+    "index.html": "/FullThrottle_Labs/index.html",
+    "precache-manifest.e80a8c081b5cbe0d3f35c4657a8447aa.js": "/FullThrottle_Labs/precache-manifest.e80a8c081b5cbe0d3f35c4657a8447aa.js",
+    "service-worker.js": "/FullThrottle_Labs/service-worker.js",
+    "static/css/2.12f1a8df.chunk.css.map": "/FullThrottle_Labs/static/css/2.12f1a8df.chunk.css.map",
+    "static/css/main.854dee9f.chunk.css.map": "/FullThrottle_Labs/static/css/main.854dee9f.chunk.css.map",
+    "static/js/2.275e2aa7.chunk.js.LICENSE.txt": "/FullThrottle_Labs/static/js/2.275e2aa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6aff96e.js",
+    "static/css/2.12f1a8df.chunk.css",
+    "static/js/2.275e2aa7.chunk.js",
+    "static/css/main.854dee9f.chunk.css",
+    "static/js/main.1858fb15.chunk.js"
+  ]
+}
