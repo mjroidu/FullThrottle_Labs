@@ -1,5 +1,8 @@
    Full Throttle Labs Assignment
 
+Demo link: "https://mjroidu.github.io/FullThrottle_Labs/"
+
+
 #Steps to run this repo:
 1. git clone git clone https://github.com/mjroidu/FullThrottle_Labs.git
 2. cd FullThrottle_Labs
