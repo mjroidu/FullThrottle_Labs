@@ -1,0 +1,28 @@
+.leftPanel {
+    border-right: 5px solid var(--blueStone);
+    cursor: pointer;
+    }
+
+.labelStyle {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: var(--slate);   
+    letter-spacing: 1px;
+    border: none;
+    text-transform: uppercase;
+    }
+
+.paddingVertical {
+    padding: 10px 0;
+    }
+
+    .h4, h4 {
+        color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0;padding-left: 12px; 
+      }
+
+
+
+/* .leftPanel p{
+    font-size: 18px;
+    line-height: 20px;
+} */

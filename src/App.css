@@ -1,0 +1,20 @@
+/* body{
+  background-color: aqua;
+} */
+
+.App{
+  /* background-color: rgb(0, 183, 255); */
+  /* min-height: 700px;
+  width: 800px;
+  margin: 40px auto;
+  border-radius: 10px; */
+}
+
+.h2, h2 {
+ 
+  text-align: center;
+  color: red;
+  /* color: #7c795d;  */
+  font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; padding: 22px;
+
+}

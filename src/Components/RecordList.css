@@ -1,0 +1,12 @@
+.RecordList{
+    border-right: 5px solid var(--blueStone);
+    padding: 2px;
+}
+.nameDisplay{
+    font-size: 18px;
+    color: red;
+}
+
+.listUsers{
+    color: #234371;
+}
