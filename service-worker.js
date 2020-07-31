@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FullThrottle_Labs/precache-manifest.e80a8c081b5cbe0d3f35c4657a8447aa.js"
+  "/FullThrottle_Labs/precache-manifest.296a24bf8485cbf023600f079d3d32aa.js"
 );
 
 self.addEventListener('message', (event) => {
